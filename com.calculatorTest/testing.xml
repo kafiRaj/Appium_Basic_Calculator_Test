@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Appium Test Suite">
+    <test name="Appium Test">
+        <classes>
+        
+            <class name="com.calculatorTest.AdditionTest"/>
+            
+        </classes>
+    </test>
+    
+</suite>
